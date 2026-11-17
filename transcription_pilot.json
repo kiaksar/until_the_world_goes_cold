@@ -1,0 +1,1467 @@
+{
+  "meta": {
+    "title": "Until The World Goes Cold",
+    "artist": "Trivium",
+    "album": "Silence in the Snow",
+    "tempo": 165,
+    "time_signature": [
+      4,
+      4
+    ],
+    "key": "Eb minor",
+    "pickup_measure": false,
+    "repeats": false,
+    "alternate_endings": false,
+    "total_measures": 218
+  },
+  "measure_map": [
+    {
+      "measure": 1,
+      "time_signature": [
+        4,
+        4
+      ],
+      "tempo": 165,
+      "section": "Intro"
+    },
+    {
+      "measure": 2,
+      "time_signature": [
+        4,
+        4
+      ],
+      "tempo": 165,
+      "section": null
+    },
+    {
+      "measure": 3,
+      "time_signature": [
+        4,
+        4
+      ],
+      "tempo": 165,
+      "section": null
+    },
+    {
+      "measure": 4,
+      "time_signature": [
+        4,
+        4
+      ],
+      "tempo": 165,
+      "section": null
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": 1,
+      "name": "Vocals",
+      "source_pdf": "Trivium - Until The World Goes Cold - Pro - Vocals.pdf",
+      "instrument_type": "Vocals",
+      "string_count": 7,
+      "tuning": [
+        "D#4",
+        "A#3",
+        "F#3",
+        "C#3",
+        "G#2",
+        "D#2",
+        "A#1"
+      ],
+      "measures": [
+        {
+          "measure": 1,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 2,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 3,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 4,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "track_id": 2,
+      "name": "Lead Guitar",
+      "source_pdf": "Trivium - Until The World Goes Cold - Pro - Lead.pdf",
+      "instrument_type": "Electric Guitar",
+      "string_count": 7,
+      "tuning": [
+        "D#4",
+        "A#3",
+        "F#3",
+        "C#3",
+        "G#2",
+        "D#2",
+        "A#1"
+      ],
+      "measures": [
+        {
+          "measure": 1,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "note",
+                  "start": "0/1",
+                  "duration": "1/8",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 4,
+                      "fret": 9,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "1/8",
+                  "duration": "1/8",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 3,
+                      "fret": 11,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "1/4",
+                  "duration": "1/8",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 4,
+                      "fret": 9,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "3/8",
+                  "duration": "1/4",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 2,
+                      "fret": 8,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "5/8",
+                  "duration": "1/8",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 3,
+                      "fret": 11,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "3/4",
+                  "duration": "1/4",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 4,
+                      "fret": 9,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true,
+                        "tie_to_next": true
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 2,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "note",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 4,
+                      "fret": 9,
+                      "tie": true,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 3,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "note",
+                  "start": "0/1",
+                  "duration": "1/8",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 4,
+                      "fret": 9,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "1/8",
+                  "duration": "1/8",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 3,
+                      "fret": 11,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "1/4",
+                  "duration": "1/8",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 4,
+                      "fret": 9,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "3/8",
+                  "duration": "1/4",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 2,
+                      "fret": 8,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "5/8",
+                  "duration": "1/8",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 3,
+                      "fret": 11,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "3/4",
+                  "duration": "1/4",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 4,
+                      "fret": 9,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 4,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "note",
+                  "start": "0/1",
+                  "duration": "1/2",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 4,
+                      "fret": 9,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "1/2",
+                  "duration": "1/8",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 2,
+                      "fret": 10,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "5/8",
+                  "duration": "1/8",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 3,
+                      "fret": 11,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "3/4",
+                  "duration": "1/8",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 2,
+                      "fret": 8,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "7/8",
+                  "duration": "1/8",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": [
+                    {
+                      "string": 3,
+                      "fret": 11,
+                      "tie": false,
+                      "techniques": {
+                        "let_ring": true
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "track_id": 3,
+      "name": "Rhythm Guitar",
+      "source_pdf": "Trivium - Until The World Goes Cold - Pro - Rhythm.pdf",
+      "instrument_type": "Electric Guitar",
+      "string_count": 7,
+      "tuning": [
+        "D#4",
+        "A#3",
+        "F#3",
+        "C#3",
+        "G#2",
+        "D#2",
+        "A#1"
+      ],
+      "measures": [
+        {
+          "measure": 1,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 2,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 3,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 4,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "track_id": 4,
+      "name": "Clean Guitar",
+      "source_pdf": "Trivium - Until The World Goes Cold - Pro (3).pdf",
+      "instrument_type": "Electric Guitar",
+      "string_count": 7,
+      "tuning": [
+        "D#4",
+        "A#3",
+        "F#3",
+        "C#3",
+        "G#2",
+        "D#2",
+        "A#1"
+      ],
+      "measures": [
+        {
+          "measure": 1,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 2,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 3,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 4,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "track_id": 5,
+      "name": "Acoustic Guitar",
+      "source_pdf": "Trivium - Until The World Goes Cold - Pro (4).pdf",
+      "instrument_type": "Acoustic Guitar",
+      "string_count": 6,
+      "tuning": [
+        "D#4",
+        "A#3",
+        "F#3",
+        "C#3",
+        "G#2",
+        "D#2"
+      ],
+      "measures": [
+        {
+          "measure": 1,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 2,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 3,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 4,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "track_id": 6,
+      "name": "Melody Guitar",
+      "source_pdf": "Trivium - Until The World Goes Cold - Pro - Melody.pdf",
+      "instrument_type": "Electric Guitar",
+      "string_count": 7,
+      "tuning": [
+        "D#4",
+        "A#3",
+        "F#3",
+        "C#3",
+        "G#2",
+        "D#2",
+        "A#1"
+      ],
+      "measures": [
+        {
+          "measure": 1,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 2,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 3,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 4,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "track_id": 7,
+      "name": "Bass Guitar",
+      "source_pdf": "Trivium - Until The World Goes Cold - Pro - Bass.pdf",
+      "instrument_type": "Electric Bass",
+      "string_count": 5,
+      "tuning": [
+        "F#2",
+        "C#2",
+        "G#1",
+        "D#1",
+        "A#0"
+      ],
+      "measures": [
+        {
+          "measure": 1,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 2,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 3,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 4,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "rest",
+                  "start": "0/1",
+                  "duration": "1/1",
+                  "dots": 0,
+                  "tuplet": null,
+                  "notes": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "track_id": 8,
+      "name": "Drums",
+      "source_pdf": "Trivium - Until The World Goes Cold - Pro - Drums.pdf",
+      "instrument_type": "Drum Kit",
+      "string_count": 6,
+      "tuning": [
+        "No Tuning (Percussion)"
+      ],
+      "measures": [
+        {
+          "measure": 1,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "chord",
+                  "start": "0/1",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 6,
+                      "fret": 36,
+                      "pitch": "Bass Drum",
+                      "midi": 36
+                    },
+                    {
+                      "string": 4,
+                      "fret": 42,
+                      "pitch": "Closed Hi-Hat",
+                      "midi": 42
+                    }
+                  ]
+                },
+                {
+                  "type": "chord",
+                  "start": "1/8",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 6,
+                      "fret": 36,
+                      "pitch": "Bass Drum",
+                      "midi": 36
+                    },
+                    {
+                      "string": 4,
+                      "fret": 42,
+                      "pitch": "Closed Hi-Hat",
+                      "midi": 42
+                    }
+                  ]
+                },
+                {
+                  "type": "chord",
+                  "start": "1/4",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 6,
+                      "fret": 36,
+                      "pitch": "Bass Drum",
+                      "midi": 36
+                    },
+                    {
+                      "string": 4,
+                      "fret": 42,
+                      "pitch": "Closed Hi-Hat",
+                      "midi": 42
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "3/8",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 6,
+                      "fret": 36,
+                      "pitch": "Bass Drum",
+                      "midi": 36
+                    }
+                  ]
+                },
+                {
+                  "type": "chord",
+                  "start": "1/2",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 3,
+                      "fret": 38,
+                      "pitch": "Snare Drum",
+                      "midi": 38,
+                      "techniques": {
+                        "accent": true
+                      }
+                    },
+                    {
+                      "string": 1,
+                      "fret": 49,
+                      "pitch": "Crash Cymbal 1",
+                      "midi": 49
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "5/8",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 6,
+                      "fret": 36,
+                      "pitch": "Bass Drum",
+                      "midi": 36
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "3/4",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 4,
+                      "fret": 42,
+                      "pitch": "Closed Hi-Hat",
+                      "midi": 42
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "7/8",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 4,
+                      "fret": 46,
+                      "pitch": "Open Hi-Hat",
+                      "midi": 46
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 2,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "chord",
+                  "start": "0/1",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 6,
+                      "fret": 36,
+                      "pitch": "Bass Drum",
+                      "midi": 36
+                    },
+                    {
+                      "string": 4,
+                      "fret": 42,
+                      "pitch": "Closed Hi-Hat",
+                      "midi": 42
+                    }
+                  ]
+                },
+                {
+                  "type": "rest",
+                  "start": "1/8",
+                  "duration": "1/8",
+                  "notes": []
+                },
+                {
+                  "type": "chord",
+                  "start": "1/4",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 6,
+                      "fret": 36,
+                      "pitch": "Bass Drum",
+                      "midi": 36
+                    },
+                    {
+                      "string": 4,
+                      "fret": 42,
+                      "pitch": "Closed Hi-Hat",
+                      "midi": 42
+                    }
+                  ]
+                },
+                {
+                  "type": "rest",
+                  "start": "3/8",
+                  "duration": "1/8",
+                  "notes": []
+                },
+                {
+                  "type": "chord",
+                  "start": "1/2",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 3,
+                      "fret": 38,
+                      "pitch": "Snare Drum",
+                      "midi": 38
+                    },
+                    {
+                      "string": 4,
+                      "fret": 42,
+                      "pitch": "Closed Hi-Hat",
+                      "midi": 42
+                    }
+                  ]
+                },
+                {
+                  "type": "rest",
+                  "start": "5/8",
+                  "duration": "1/8",
+                  "notes": []
+                },
+                {
+                  "type": "rest",
+                  "start": "3/4",
+                  "duration": "1/8",
+                  "notes": []
+                },
+                {
+                  "type": "note",
+                  "start": "7/8",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 4,
+                      "fret": 46,
+                      "pitch": "Open Hi-Hat",
+                      "midi": 46
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 3,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "chord",
+                  "start": "0/1",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 6,
+                      "fret": 36,
+                      "pitch": "Bass Drum",
+                      "midi": 36
+                    },
+                    {
+                      "string": 4,
+                      "fret": 42,
+                      "pitch": "Closed Hi-Hat",
+                      "midi": 42
+                    }
+                  ]
+                },
+                {
+                  "type": "chord",
+                  "start": "1/8",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 6,
+                      "fret": 36,
+                      "pitch": "Bass Drum",
+                      "midi": 36
+                    },
+                    {
+                      "string": 4,
+                      "fret": 42,
+                      "pitch": "Closed Hi-Hat",
+                      "midi": 42
+                    }
+                  ]
+                },
+                {
+                  "type": "chord",
+                  "start": "1/4",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 6,
+                      "fret": 36,
+                      "pitch": "Bass Drum",
+                      "midi": 36
+                    },
+                    {
+                      "string": 4,
+                      "fret": 42,
+                      "pitch": "Closed Hi-Hat",
+                      "midi": 42
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "3/8",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 6,
+                      "fret": 36,
+                      "pitch": "Bass Drum",
+                      "midi": 36
+                    }
+                  ]
+                },
+                {
+                  "type": "chord",
+                  "start": "1/2",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 3,
+                      "fret": 38,
+                      "pitch": "Snare Drum",
+                      "midi": 38,
+                      "techniques": {
+                        "accent": true
+                      }
+                    },
+                    {
+                      "string": 1,
+                      "fret": 49,
+                      "pitch": "Crash Cymbal 1",
+                      "midi": 49
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "5/8",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 6,
+                      "fret": 36,
+                      "pitch": "Bass Drum",
+                      "midi": 36
+                    }
+                  ]
+                },
+                {
+                  "type": "chord",
+                  "start": "3/4",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 6,
+                      "fret": 36,
+                      "pitch": "Bass Drum",
+                      "midi": 36
+                    },
+                    {
+                      "string": 4,
+                      "fret": 42,
+                      "pitch": "Closed Hi-Hat",
+                      "midi": 42
+                    }
+                  ]
+                },
+                {
+                  "type": "note",
+                  "start": "7/8",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 4,
+                      "fret": 46,
+                      "pitch": "Open Hi-Hat",
+                      "midi": 46
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "measure": 4,
+          "voices": [
+            {
+              "voice": 1,
+              "events": [
+                {
+                  "type": "chord",
+                  "start": "0/1",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 6,
+                      "fret": 36,
+                      "pitch": "Bass Drum",
+                      "midi": 36
+                    },
+                    {
+                      "string": 4,
+                      "fret": 42,
+                      "pitch": "Closed Hi-Hat",
+                      "midi": 42
+                    }
+                  ]
+                },
+                {
+                  "type": "rest",
+                  "start": "1/8",
+                  "duration": "1/8",
+                  "notes": []
+                },
+                {
+                  "type": "chord",
+                  "start": "1/4",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 6,
+                      "fret": 36,
+                      "pitch": "Bass Drum",
+                      "midi": 36
+                    },
+                    {
+                      "string": 4,
+                      "fret": 42,
+                      "pitch": "Closed Hi-Hat",
+                      "midi": 42
+                    }
+                  ]
+                },
+                {
+                  "type": "rest",
+                  "start": "3/8",
+                  "duration": "1/8",
+                  "notes": []
+                },
+                {
+                  "type": "chord",
+                  "start": "1/2",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 3,
+                      "fret": 38,
+                      "pitch": "Snare Drum",
+                      "midi": 38
+                    },
+                    {
+                      "string": 4,
+                      "fret": 42,
+                      "pitch": "Closed Hi-Hat",
+                      "midi": 42
+                    }
+                  ]
+                },
+                {
+                  "type": "rest",
+                  "start": "5/8",
+                  "duration": "1/8",
+                  "notes": []
+                },
+                {
+                  "type": "rest",
+                  "start": "3/4",
+                  "duration": "1/8",
+                  "notes": []
+                },
+                {
+                  "type": "note",
+                  "start": "7/8",
+                  "duration": "1/8",
+                  "notes": [
+                    {
+                      "string": 4,
+                      "fret": 46,
+                      "pitch": "Open Hi-Hat",
+                      "midi": 46
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
