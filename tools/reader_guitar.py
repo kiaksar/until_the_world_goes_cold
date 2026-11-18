@@ -391,6 +391,27 @@ def build_track(track_name, pdf_name):
             f"{track_name} tied pitch mismatch M{m1}->M{m2}: {last_pitches} vs {first_pitches}"
         )
 
+    # Annotate Palm Mute (P.M.) and Artificial Harmonics (AH / PH)
+    if track_name in ("Lead", "Melody"):
+        if 137 in measures:
+            for atom in measures[137][:3]:
+                atom["palmMute"] = True
+                for n in atom.get("notes", []):
+                    n["palmMute"] = True
+    if track_name == "Lead":
+        if 185 in measures and len(measures[185]) >= 3:
+            measures[185][2]["ah"] = True
+            measures[185][2]["harmonic"] = "artificial"
+            for n in measures[185][2].get("notes", []):
+                n["ah"] = True
+                n["harmonic"] = "artificial"
+        if 186 in measures and len(measures[186]) >= 1:
+            measures[186][0]["ah"] = True
+            measures[186][0]["harmonic"] = "artificial"
+            for n in measures[186][0].get("notes", []):
+                n["ah"] = True
+                n["harmonic"] = "artificial"
+
     out = []
     rest_only = 0
     for num in range(1, TOTAL + 1):

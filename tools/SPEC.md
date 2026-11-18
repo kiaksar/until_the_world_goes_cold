@@ -29,3 +29,6 @@ Rules that MUST hold, and the harness checks:
   single atom with `dur: 3840` and `"tie": "stop"`.
 - String numbering is 1 = highest-pitched string (MuseScore convention), matching
   `pdfnotate.onset_positions`.
+- Note effects (optional on atom or note):
+  - `"palmMute": true`: marks the note/atom as palm-muted (P.M.).
+  - `"harmonic": "artificial"` or `"ah": true`: marks the note as an artificial harmonic (A.H.).

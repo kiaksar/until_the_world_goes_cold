@@ -3293,9 +3293,11 @@
      "notes": [
       {
        "string": 5,
-       "fret": 17
+       "fret": 17,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -3304,9 +3306,11 @@
      "notes": [
       {
        "string": 4,
-       "fret": 16
+       "fret": 16,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -3315,9 +3319,11 @@
      "notes": [
       {
        "string": 3,
-       "fret": 14
+       "fret": 14,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,

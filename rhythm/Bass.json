@@ -17613,10 +17613,12 @@
      "notes": [
       {
        "string": 5,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
      ],
-     "tie": "start"
+     "tie": "start",
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -17631,10 +17633,12 @@
      "notes": [
       {
        "string": 5,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
      ],
-     "tie": "stop"
+     "tie": "stop",
+     "palmMute": true
     }
    ],
    "sum": 3840
