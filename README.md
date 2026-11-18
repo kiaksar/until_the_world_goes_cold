@@ -10,7 +10,21 @@ Working files for a bass and drum transcription from the included tablature PDFs
 - `midi_work/` contains reconstruction and intermediate work; older MIDI exports are retained as drafts.
 - `transcription.json`, the Guitar Pro file, and prior handoff files contain earlier work and may contain transcription errors. Do not assume they are fully accurate.
 
-The project owner wants future project changes pushed to the `main` branch of `https://github.com/kiaksar/until_the_world_goes_cold.git` so they can work across computers.
+The project owner wants future project changes pushed to the `main` or `develop` branch of `https://github.com/kiaksar/until_the_world_goes_cold.git` so they can work across computers.
+
+## Completed Score Rebuild (2026-11-18)
+
+- **Rebuilt GP5**: `Trivium - Until The World Goes Cold (rebuilt).gp5`
+- Reconstructed all 8 tracks directly from official source PDFs using exact measure-partitioning geometry readers:
+  - `Vocals` (`rhythm/Vocals.json`)
+  - `Lead Guitar` (`rhythm/Lead.json`)
+  - `Rhythm Guitar` (`rhythm/Rhythm.json`)
+  - `Clean Guitar` (`rhythm/Clean.json`)
+  - `Acoustic Guitar` (`rhythm/Acoustic.json`)
+  - `Melody Guitar` (`rhythm/Melody.json`)
+  - `Bass Guitar` (`rhythm/Bass.json`)
+  - `Drums` (`rhythm/Drums.json`)
+- Verified with `tools/verify_gp5.py`: All 8 tracks pass across all 218 measures with 0 problems and exact 3840 ticks/bar tiling.
 
 ## Next session (noted 2026-11-17)
 
