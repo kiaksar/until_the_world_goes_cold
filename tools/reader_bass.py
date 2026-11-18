@@ -251,6 +251,16 @@ def build():
             f"Tied pitch mismatch at M{m1} -> M{m2}: {last_note['notes']} vs {first_note['notes']}"
         )
 
+    # Annotate Palm Mute (P.M.) in M217 and M218
+    if 217 in measures and len(measures[217]) >= 7:
+        measures[217][6]["palmMute"] = True
+        for n in measures[217][6].get("notes", []):
+            n["palmMute"] = True
+    if 218 in measures and len(measures[218]) >= 1:
+        measures[218][0]["palmMute"] = True
+        for n in measures[218][0].get("notes", []):
+            n["palmMute"] = True
+
     out = []
     rest_only = 0
     for num in range(1, TOTAL + 1):

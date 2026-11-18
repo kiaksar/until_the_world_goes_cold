@@ -182,13 +182,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -197,13 +200,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -212,13 +218,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -227,13 +236,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -248,13 +260,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -263,13 +278,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -278,13 +296,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -298,13 +319,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -313,13 +337,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -328,13 +355,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -359,13 +389,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 720,
@@ -374,13 +407,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -389,13 +425,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -404,13 +443,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -419,13 +461,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -434,13 +479,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -449,13 +497,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -464,13 +515,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -485,13 +539,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -500,13 +557,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -515,13 +575,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -535,13 +598,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -550,13 +616,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -565,13 +634,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -641,9 +713,11 @@
      "notes": [
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -682,9 +756,13 @@
      "notes": [
       {
        "string": 7,
-       "fret": 2
+       "fret": 2,
+       "harmonic": "artificial",
+       "ah": true
       }
-     ]
+     ],
+     "harmonic": "artificial",
+     "ah": true
     }
    ],
    "sum": 3840
@@ -699,13 +777,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -714,13 +795,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -729,13 +813,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -749,13 +836,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -764,13 +854,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -779,13 +872,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -810,13 +906,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 720,
@@ -825,13 +924,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -840,13 +942,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -855,13 +960,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -870,13 +978,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -885,13 +996,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -900,13 +1014,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -915,13 +1032,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -936,13 +1056,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -951,13 +1074,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -966,13 +1092,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -986,13 +1115,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -1001,13 +1133,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -1016,13 +1151,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -1092,9 +1230,11 @@
      "notes": [
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -1133,9 +1273,13 @@
      "notes": [
       {
        "string": 7,
-       "fret": 2
+       "fret": 2,
+       "harmonic": "artificial",
+       "ah": true
       }
-     ]
+     ],
+     "harmonic": "artificial",
+     "ah": true
     }
    ],
    "sum": 3840
@@ -1248,13 +1392,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -1263,13 +1410,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -1278,13 +1428,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -1293,13 +1446,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -1308,13 +1464,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -1323,13 +1482,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -1338,13 +1500,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -1353,13 +1518,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -1374,13 +1542,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -1389,13 +1560,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -1404,13 +1578,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -1419,13 +1596,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -1434,13 +1614,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -1449,13 +1632,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -1464,13 +1650,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -1479,13 +1668,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -1500,13 +1692,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -1515,13 +1710,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -1530,13 +1728,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -1545,13 +1746,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -1560,13 +1764,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -1575,13 +1782,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -1590,13 +1800,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -1605,13 +1818,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -1626,13 +1842,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -1641,13 +1860,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -1656,13 +1878,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -1671,13 +1896,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -1686,13 +1914,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -1701,13 +1932,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -1716,13 +1950,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -1731,13 +1968,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -1752,13 +1992,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -1767,13 +2010,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -1782,13 +2028,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -1797,13 +2046,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -1812,13 +2064,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -1827,13 +2082,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -1842,13 +2100,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -1857,13 +2118,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -1878,13 +2142,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -1893,13 +2160,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -1908,13 +2178,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -1923,13 +2196,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -1938,13 +2214,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -1953,13 +2232,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -1968,13 +2250,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -1983,13 +2268,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -2004,13 +2292,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -2019,13 +2310,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -2034,13 +2328,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -2049,13 +2346,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -2064,13 +2364,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -2079,13 +2382,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -2094,13 +2400,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -2109,13 +2418,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -2130,13 +2442,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -2145,13 +2460,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -2160,13 +2478,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -2175,13 +2496,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -3204,13 +3528,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -3219,13 +3546,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -3234,13 +3564,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -3249,13 +3582,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -3264,13 +3600,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -3279,13 +3618,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -3294,13 +3636,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -3309,13 +3654,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -3330,13 +3678,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -3345,13 +3696,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -3360,13 +3714,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -3375,13 +3732,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -3390,13 +3750,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -4830,13 +5193,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -4845,13 +5211,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -4860,13 +5229,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -4875,13 +5247,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -4890,13 +5265,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -4927,13 +5305,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -4942,13 +5323,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -4957,13 +5341,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -4977,13 +5364,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -4992,13 +5382,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -5007,13 +5400,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -5038,13 +5434,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 720,
@@ -5053,13 +5452,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -5068,13 +5470,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -5083,13 +5488,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -5098,13 +5506,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -5113,13 +5524,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -5128,13 +5542,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -5143,13 +5560,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -5164,13 +5584,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -5179,13 +5602,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -5194,13 +5620,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -5214,13 +5643,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -5229,13 +5661,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -5244,13 +5679,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -5320,9 +5758,11 @@
      "notes": [
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -5378,13 +5818,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -5393,13 +5836,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -5408,13 +5854,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -5428,13 +5877,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -5443,13 +5895,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -5458,13 +5913,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -5489,13 +5947,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 720,
@@ -5504,13 +5965,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -5519,13 +5983,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -5534,13 +6001,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -5549,13 +6019,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -5564,13 +6037,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -5579,13 +6055,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -5594,13 +6073,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -5615,13 +6097,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -5630,13 +6115,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -5645,13 +6133,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -5665,13 +6156,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -5680,13 +6174,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -5695,13 +6192,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -5771,9 +6271,11 @@
      "notes": [
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -5812,9 +6314,13 @@
      "notes": [
       {
        "string": 7,
-       "fret": 2
+       "fret": 2,
+       "harmonic": "artificial",
+       "ah": true
       }
-     ]
+     ],
+     "harmonic": "artificial",
+     "ah": true
     }
    ],
    "sum": 3840
@@ -5927,13 +6433,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -5942,13 +6451,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -5957,13 +6469,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -5972,13 +6487,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -5987,13 +6505,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -6002,13 +6523,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -6017,13 +6541,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -6032,13 +6559,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -6053,13 +6583,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -6068,13 +6601,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -6083,13 +6619,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -6098,13 +6637,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -6113,13 +6655,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -6128,13 +6673,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -6143,13 +6691,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -6158,13 +6709,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -6179,13 +6733,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -6194,13 +6751,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -6209,13 +6769,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -6224,13 +6787,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -6239,13 +6805,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -6254,13 +6823,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -6269,13 +6841,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -6284,13 +6859,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -6305,13 +6883,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -6320,13 +6901,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -6335,13 +6919,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -6350,13 +6937,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -6365,13 +6955,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -6380,13 +6973,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -6395,13 +6991,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -6410,13 +7009,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 3
+       "fret": 3,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -6431,13 +7033,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -6446,13 +7051,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -6461,13 +7069,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -6476,13 +7087,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -6491,13 +7105,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -6506,13 +7123,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -6521,13 +7141,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -6536,13 +7159,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -6557,13 +7183,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -6572,13 +7201,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -6587,13 +7219,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -6602,13 +7237,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -6617,13 +7255,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -6632,13 +7273,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -6647,13 +7291,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -6662,13 +7309,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 9
+       "fret": 9,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -6683,13 +7333,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -6698,13 +7351,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -6713,13 +7369,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -6728,13 +7387,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -6743,13 +7405,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -6758,13 +7423,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -6773,13 +7441,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -6788,13 +7459,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -6809,13 +7483,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -6824,13 +7501,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -6839,13 +7519,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -6854,13 +7537,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -7883,13 +8569,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -7898,13 +8587,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -7913,13 +8605,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -7928,13 +8623,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -7943,13 +8641,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -7958,13 +8659,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -7973,13 +8677,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -7988,13 +8695,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -8009,13 +8719,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -8024,13 +8737,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -8039,13 +8755,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -8054,13 +8773,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -8069,13 +8791,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -10945,13 +11670,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -10960,13 +11688,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -10975,13 +11706,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -10995,13 +11729,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -11010,13 +11747,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -11025,13 +11765,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -11056,13 +11799,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 720,
@@ -11071,13 +11817,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -11086,13 +11835,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -11101,13 +11853,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -11116,13 +11871,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -11131,13 +11889,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -11146,13 +11907,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -11161,13 +11925,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -11182,13 +11949,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -11197,13 +11967,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -11212,13 +11985,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -11232,13 +12008,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -11247,13 +12026,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -11262,13 +12044,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -11338,9 +12123,11 @@
      "notes": [
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -11379,9 +12166,13 @@
      "notes": [
       {
        "string": 7,
-       "fret": 2
+       "fret": 2,
+       "harmonic": "artificial",
+       "ah": true
       }
-     ]
+     ],
+     "harmonic": "artificial",
+     "ah": true
     }
    ],
    "sum": 3840
@@ -11396,13 +12187,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -11411,13 +12205,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -11426,13 +12223,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -11446,13 +12246,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -11461,13 +12264,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -11476,13 +12282,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -11507,13 +12316,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 720,
@@ -11522,13 +12334,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -11537,13 +12352,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -11552,13 +12370,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -11567,13 +12388,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -11582,13 +12406,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -11597,13 +12424,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -11612,13 +12442,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -11633,13 +12466,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -11648,13 +12484,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -11663,13 +12502,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -11683,13 +12525,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -11698,13 +12543,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -11713,13 +12561,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -11789,9 +12640,11 @@
      "notes": [
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -11830,9 +12683,13 @@
      "notes": [
       {
        "string": 7,
-       "fret": 2
+       "fret": 2,
+       "harmonic": "artificial",
+       "ah": true
       }
-     ]
+     ],
+     "harmonic": "artificial",
+     "ah": true
     }
    ],
    "sum": 3840
@@ -11847,13 +12704,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -11862,13 +12722,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -11877,13 +12740,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -11892,13 +12758,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -11907,13 +12776,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -11922,13 +12794,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -11943,13 +12818,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -11958,13 +12836,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 720,
@@ -11973,13 +12854,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -11988,13 +12872,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -12003,13 +12890,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -12018,13 +12908,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -12033,13 +12926,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -12048,13 +12944,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -12063,13 +12962,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -12084,13 +12986,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -12099,13 +13004,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -12114,13 +13022,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -12129,13 +13040,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -12144,13 +13058,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -12159,13 +13076,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -12180,13 +13100,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -12240,9 +13163,11 @@
      "notes": [
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -12281,9 +13206,13 @@
      "notes": [
       {
        "string": 7,
-       "fret": 2
+       "fret": 2,
+       "harmonic": "artificial",
+       "ah": true
       }
-     ]
+     ],
+     "harmonic": "artificial",
+     "ah": true
     }
    ],
    "sum": 3840
@@ -12298,13 +13227,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -12313,13 +13245,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -12328,13 +13263,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -12348,13 +13286,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -12363,13 +13304,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -12378,13 +13322,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -12409,13 +13356,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 720,
@@ -12424,13 +13374,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -12439,13 +13392,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -12454,13 +13410,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -12469,13 +13428,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -12484,13 +13446,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -12499,13 +13464,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -12514,13 +13482,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -12535,13 +13506,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -12550,13 +13524,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -12565,13 +13542,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -12585,13 +13565,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -12600,13 +13583,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -12615,13 +13601,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -12691,9 +13680,11 @@
      "notes": [
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -12732,9 +13723,13 @@
      "notes": [
       {
        "string": 7,
-       "fret": 2
+       "fret": 2,
+       "harmonic": "artificial",
+       "ah": true
       }
-     ]
+     ],
+     "harmonic": "artificial",
+     "ah": true
     }
    ],
    "sum": 3840
@@ -13804,13 +14799,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -13819,13 +14817,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -13853,13 +14854,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -13868,13 +14872,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -13902,13 +14909,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -13923,13 +14933,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -14146,13 +15159,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -14161,13 +15177,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -14176,13 +15195,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -14216,13 +15238,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -14231,13 +15256,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -14246,13 +15274,16 @@
      "notes": [
       {
        "string": 5,
-       "fret": 7
+       "fret": 7,
+       "palmMute": true
       },
       {
        "string": 6,
-       "fret": 5
+       "fret": 5,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -18430,13 +19461,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -18445,13 +19479,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -18460,13 +19497,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -18480,13 +19520,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -18495,13 +19538,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -18510,13 +19556,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -18541,13 +19590,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 720,
@@ -18556,13 +19608,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -18571,13 +19626,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -18586,13 +19644,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -18601,13 +19662,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -18616,13 +19680,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -18631,13 +19698,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -18646,13 +19716,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -18667,13 +19740,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -18682,13 +19758,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -18697,13 +19776,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -18717,13 +19799,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -18732,13 +19817,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -18747,13 +19835,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -18823,9 +19914,11 @@
      "notes": [
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -18864,9 +19957,13 @@
      "notes": [
       {
        "string": 7,
-       "fret": 2
+       "fret": 2,
+       "harmonic": "artificial",
+       "ah": true
       }
-     ]
+     ],
+     "harmonic": "artificial",
+     "ah": true
     }
    ],
    "sum": 3840
@@ -18881,13 +19978,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -18896,13 +19996,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -18911,13 +20014,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -18931,13 +20037,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -18946,13 +20055,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -18961,13 +20073,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -18992,13 +20107,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 720,
@@ -19007,13 +20125,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -19022,13 +20143,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -19037,13 +20161,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -19052,13 +20179,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -19067,13 +20197,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -19082,13 +20215,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -19097,13 +20233,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -19118,13 +20257,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -19133,13 +20275,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -19148,13 +20293,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -19168,13 +20316,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -19183,13 +20334,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -19198,13 +20352,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -19274,9 +20431,11 @@
      "notes": [
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -19315,9 +20474,13 @@
      "notes": [
       {
        "string": 7,
-       "fret": 2
+       "fret": 2,
+       "harmonic": "artificial",
+       "ah": true
       }
-     ]
+     ],
+     "harmonic": "artificial",
+     "ah": true
     }
    ],
    "sum": 3840
@@ -19332,13 +20495,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -19347,13 +20513,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -19362,13 +20531,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -19377,13 +20549,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -19392,13 +20567,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -19407,13 +20585,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -19428,13 +20609,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -19443,13 +20627,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 720,
@@ -19458,13 +20645,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -19473,13 +20663,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -19488,13 +20681,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -19503,13 +20699,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -19518,13 +20717,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -19533,13 +20735,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -19548,13 +20753,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -19569,13 +20777,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -19584,13 +20795,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -19599,13 +20813,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -19614,13 +20831,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -19629,13 +20849,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -19644,13 +20867,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -19665,13 +20891,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -19725,9 +20954,11 @@
      "notes": [
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -19766,9 +20997,13 @@
      "notes": [
       {
        "string": 7,
-       "fret": 2
+       "fret": 2,
+       "harmonic": "artificial",
+       "ah": true
       }
-     ]
+     ],
+     "harmonic": "artificial",
+     "ah": true
     }
    ],
    "sum": 3840
@@ -19783,13 +21018,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -19798,13 +21036,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -19813,13 +21054,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -19833,13 +21077,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -19848,13 +21095,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -19863,13 +21113,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -19894,13 +21147,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 720,
@@ -19909,13 +21165,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -19924,13 +21183,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -19939,13 +21201,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -19954,13 +21219,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -19969,13 +21237,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -19984,13 +21255,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -19999,13 +21273,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     }
    ],
    "sum": 3840
@@ -20020,13 +21297,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -20035,13 +21315,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -20050,13 +21333,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -20070,13 +21356,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2400,
@@ -20085,13 +21374,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 2880,
@@ -20100,13 +21392,16 @@
      "notes": [
       {
        "string": 6,
-       "fret": 2
+       "fret": 2,
+       "palmMute": true
       },
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 3360,
@@ -20176,9 +21471,11 @@
      "notes": [
       {
        "string": 7,
-       "fret": 0
+       "fret": 0,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1920,
@@ -20217,9 +21514,13 @@
      "notes": [
       {
        "string": 7,
-       "fret": 2
+       "fret": 2,
+       "harmonic": "artificial",
+       "ah": true
       }
-     ]
+     ],
+     "harmonic": "artificial",
+     "ah": true
     }
    ],
    "sum": 3840

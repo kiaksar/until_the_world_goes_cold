@@ -6893,9 +6893,11 @@
      "notes": [
       {
        "string": 5,
-       "fret": 14
+       "fret": 14,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 480,
@@ -6904,9 +6906,11 @@
      "notes": [
       {
        "string": 5,
-       "fret": 17
+       "fret": 17,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 960,
@@ -6915,9 +6919,11 @@
      "notes": [
       {
        "string": 4,
-       "fret": 16
+       "fret": 16,
+       "palmMute": true
       }
-     ]
+     ],
+     "palmMute": true
     },
     {
      "onset": 1440,
@@ -9109,10 +9115,14 @@
      "notes": [
       {
        "string": 2,
-       "fret": 10
+       "fret": 10,
+       "ah": true,
+       "harmonic": "artificial"
       }
      ],
-     "tie": "start"
+     "tie": "start",
+     "ah": true,
+     "harmonic": "artificial"
     }
    ],
    "sum": 3840
@@ -9127,10 +9137,14 @@
      "notes": [
       {
        "string": 2,
-       "fret": 10
+       "fret": 10,
+       "ah": true,
+       "harmonic": "artificial"
       }
      ],
-     "tie": "stop"
+     "tie": "stop",
+     "ah": true,
+     "harmonic": "artificial"
     },
     {
      "onset": 1920,

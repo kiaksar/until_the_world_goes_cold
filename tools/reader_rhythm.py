@@ -103,6 +103,7 @@ def read_segment(marks, seg, digits_clusters):
                     best = (score, cl)
         if best:
             atom["notes"] = [{"string": n["string"], "fret": n["fret"]} for n in best[1]["notes"]]
+            atom["cl_x"] = best[1]["x"]
             free.remove(best[1])
 
     orphans = free
@@ -136,11 +137,48 @@ def tile(atoms):
     return atoms, adjusted, None
 
 
+def extract_notations(doc):
+    pm_by_page = {}
+    ah_by_page = {}
+    for pno, page in enumerate(doc):
+        dashed = []
+        for dr in page.get_drawings():
+            if dr["type"] == "s" and len(dr["items"]) > 1 and abs(dr["rect"].y1 - dr["rect"].y0) < 5:
+                dashed.append(dr)
+
+        pm_list = []
+        ah_list = []
+        for b in page.get_text("dict")["blocks"]:
+            for l in b.get("lines", []):
+                for sp in l["spans"]:
+                    txt = sp["text"].strip()
+                    if txt == "P.M.":
+                        bx = sp["bbox"]
+                        dash_match = None
+                        for d in dashed:
+                            r = d["rect"]
+                            if abs(r.y0 - (bx[1] + bx[3]) / 2) < 30 and -10 <= (r.x0 - bx[2]) < 50:
+                                dash_match = d
+                                break
+                        pm_list.append({
+                            "bbox": bx,
+                            "dash": dash_match,
+                            "y": (bx[1] + bx[3]) / 2,
+                        })
+                    elif txt == "AH":
+                        ah_list.append(sp["bbox"])
+        pm_by_page[pno] = pm_list
+        ah_by_page[pno] = ah_list
+    return pm_by_page, ah_by_page
+
+
 def build():
     pages = pdfnotate.load(os.path.join(ROOT, PDF))
     doc = pymupdf.open(os.path.join(ROOT, PDF))
     marks = {i: page_marks(doc[i]) for i in range(len(doc))}
     segs = pdfnotate.assign_measures(pages, TOTAL)
+    pm_by_page, ah_by_page = extract_notations(doc)
+    seg_by_number = {s["number"]: s for s in segs if s["count"] == 1}
 
     measures, uncertain, adjusted, diagnostics = {}, [], [], {}
     for seg in segs:
@@ -171,17 +209,51 @@ def build():
         measures[number] = atoms
 
     out, rest_only = [], 0
+    pm_count = 0
+    ah_count = 0
     for number in range(1, TOTAL + 1):
         atoms = measures.get(number)
         if atoms is None:
             uncertain.append(number)
             atoms = [{"kind": "rest", "dur": MEASURE, "notes": None}]
         entries, onset = [], 0
+        seg = seg_by_number.get(number)
+        pno = seg["page"] if seg else None
+        sy = seg["system"] if seg else None
+        pms_in_sys = [p for p in pm_by_page[pno] if 0 < p["y"] - sy["bot"] < 1200] if seg else []
+        ahs_in_sys = [a for a in ah_by_page[pno] if -200 <= (sy["top"] - a[1]) < 1200] if seg else []
+
         for atom in atoms:
             if atom["kind"] == "note" and not atom.get("notes"):
                 entry = {"onset": onset, "dur": atom["dur"], "kind": "rest"}
             elif atom["kind"] == "note":
                 entry = {"onset": onset, "dur": atom["dur"], "kind": "note", "notes": atom["notes"]}
+                cl_x = atom.get("cl_x", atom.get("x", 0) - 43)
+
+                is_pm = False
+                for pm in pms_in_sys:
+                    if pm["dash"]:
+                        if pm["bbox"][0] - 25 <= cl_x <= pm["dash"]["rect"].x1 + 15:
+                            is_pm = True
+                            break
+                    else:
+                        if abs(cl_x - (pm["bbox"][0] + 14)) < 25:
+                            is_pm = True
+                            break
+                if is_pm:
+                    entry["palmMute"] = True
+                    for n in entry["notes"]:
+                        n["palmMute"] = True
+                    pm_count += 1
+
+                is_ah = any(abs(cl_x - (ah_bx[0] + 10.2)) < 25 for ah_bx in ahs_in_sys)
+                if is_ah:
+                    entry["harmonic"] = "artificial"
+                    entry["ah"] = True
+                    for n in entry["notes"]:
+                        n["harmonic"] = "artificial"
+                        n["ah"] = True
+                    ah_count += 1
             else:
                 entry = {"onset": onset, "dur": atom["dur"], "kind": "rest"}
             entries.append(entry)
@@ -190,6 +262,7 @@ def build():
             rest_only += 1
         out.append({"number": number, "atoms": entries, "sum": onset})
 
+    print(f"annotated {pm_count} palm-muted notes and {ah_count} artificial harmonics")
     return out, sorted(set(uncertain)), sorted(set(adjusted)), diagnostics, rest_only
 
 

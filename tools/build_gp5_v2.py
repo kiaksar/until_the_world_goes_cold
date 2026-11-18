@@ -136,6 +136,11 @@ def build_measure(measure, header_start, atoms, is_percussion):
                     note.velocity = 95
                     tied = index > 0 or atom.get("tie") == "stop"
                     note.type = gp.NoteType.tie if tied else gp.NoteType.normal
+                    if not is_percussion:
+                        if item.get("palmMute") or atom.get("palmMute"):
+                            note.effect.palmMute = True
+                        if item.get("harmonic") == "artificial" or item.get("ah") or atom.get("ah"):
+                            note.effect.harmonic = gp.ArtificialHarmonic()
                     beat.notes.append(note)
             voice.beats.append(beat)
             offset += length
